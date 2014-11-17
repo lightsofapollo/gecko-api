@@ -9,3 +9,4 @@ For an intial proof of concept I want to show:
  - launching a remote gecko application (b2g-desktop) (with a profile / arguments)
  - streaming logs
  - gdb server (lldb-platform)
+ - devtools
